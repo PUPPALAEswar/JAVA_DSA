@@ -7,6 +7,5 @@ class Solution {
                 ans=Math.max(ans,cur);
             }
         return arr;
-        
     }
 }
